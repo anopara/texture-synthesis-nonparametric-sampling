@@ -24,5 +24,5 @@ To start, open the Jupyter Notebook file "Texture Synthesis", and follow the ins
 For Houdini:
 * Houdini 17 (might work with earlier versions, haven't tried)
 
-Use this file at your own risk :D  
+Use this file at your own risk :D  To start, open TextureSynthesis<...>.hipnc file and follow the instructions inside (they are scarce, but present)
 
