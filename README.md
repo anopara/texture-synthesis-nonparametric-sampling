@@ -25,4 +25,4 @@ For Houdini:
 * Houdini 17 (might work with earlier versions, haven't tried)
 
 To start, open TextureSynthesis<...>.hipnc file and follow the instructions inside (they are scarce, but present)
-Use this file at your own risk :D  WARNING: it's very very slow! (you might wanna use it on smaller images...)
+Use this file at your own risk :D  WARNING: it's very very slow! (you might wanna use it on smaller images...) and the results are less nice that the Python version
