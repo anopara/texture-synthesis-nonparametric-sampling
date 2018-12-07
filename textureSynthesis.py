@@ -174,7 +174,7 @@ def initCanvas(exampleMap, size):
     #get exampleMap dimensions
     imgRows, imgCols, imgChs = np.shape(exampleMap)
     
-    #create empty canvas (-1 value means unresolved pixel)
+    #create empty canvas 
     canvas = np.zeros((size[0], size[1], imgChs)) #inherit number of channels from example map
     filledMap = np.zeros((size[0], size[1])) #map showing which pixels have been resolved
     
